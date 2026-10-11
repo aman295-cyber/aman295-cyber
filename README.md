@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
   <img src="https://img.shields.io/badge/Machine_Learning-8B5CF6?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning"/>
   <img src="https://komarev.com/ghpvc/?username=aman295-cyber&label=PROFILE+VIEWS&color=8B5CF6&style=for-the-badge" alt="Profile Views"/>
+  ![Profile Views](https://profile-counter.glitch.me/aman295-cyber/count.svg)
 </div>
 
 ---
