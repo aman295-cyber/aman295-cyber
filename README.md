@@ -1,6 +1,9 @@
 
 <div align="center">
-  <img src="profile-banner.png" width="100%" alt="Aman Kumar — AI/ML Developer Banner"/>
+  <img src="aman-coding-banner.gif"
+       width="100%"
+       alt="Aman Kumar Animated Coding Banner"/>
+</div>
 
   <br/>
 
