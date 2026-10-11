@@ -1,26 +1,21 @@
 <div align="center">
-  <img src="aman-coding-banner.gif" width="100%" alt="Aman Kumar Header Banner" />
-</div>
-<div align="center">
 
-  <!-- 1. Big Stylish Animated Name Header -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=42&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=750&height=75&lines=⚡+AMAN+KUMAR+⚡;AI+%26+ML+DEVELOPER" alt="Aman Kumar" />
-
-  <br/>
-
-  <!-- 2. Dynamic Typing Subtitle -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=Python+%7C+Deep+Learning+%7C+Computer+Vision;Building+Practical+ML+Projects;Learn.+Build.+Improve.+Repeat." alt="Subtitle" />
+  <!-- Main Banner -->
+  <img src="aman-coding-banner.gif" width="100%" alt="Aman Kumar" />
 
   <br/><br/>
 
-  <!-- 3. Tech Badges -->
+  <!-- Typing Subtitle -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=900&color=00E5FF&center=true&vCenter=true&width=720&lines=AI+%26+Machine+Learning+Enthusiast;Python+%7C+Deep+Learning+%7C+Computer+Vision;Building+Practical+ML+Projects;Learn.+Build.+Improve.+Repeat." alt="Animated AI and ML introduction"/>
+
+  <br/><br/>
+
+  <!-- Badges -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
   <img src="https://img.shields.io/badge/Machine_Learning-8B5CF6?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning"/>
 
 </div>
-
----
 
 ## 👨‍💻 About Me
 
