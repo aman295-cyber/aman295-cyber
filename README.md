@@ -1,4 +1,7 @@
 <div align="center">
+  <img src="aman-coding-banner.gif" width="100%" alt="Aman Kumar Header Banner" />
+</div>
+<div align="center">
 
   <!-- 1. Big Stylish Animated Name Header -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=42&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=750&height=75&lines=⚡+AMAN+KUMAR+⚡;AI+%26+ML+DEVELOPER" alt="Aman Kumar" />
