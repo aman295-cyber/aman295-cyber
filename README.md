@@ -4,6 +4,13 @@
        width="100%"
        alt="Aman Kumar Animated Coding Banner"/>
 </div>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=00E5FF&center=true&vCenter=true&width=720&lines=AI+%26+Machine+Learning+Enthusiast;Python+%7C+Deep+Learning+%7C+Computer+Vision;Building+Practical+ML+Projects;Learn.+Build.+Improve.+Repeat." alt="Animated AI and ML introduction"/>
+
+  <br/><br/>
+
+  <!-- Baaki badges yahan rahenge -->
+</div>
 
   <br/>
 
