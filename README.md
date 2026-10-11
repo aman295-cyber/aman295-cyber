@@ -8,13 +8,13 @@
 
   <br/><br/>
 
-  <!-- Typing Subtitle -->
+  <!-- Animated Typing Subtitle -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=900&color=00E5FF&center=true&vCenter=true&width=720&lines=AI+%26+Machine+Learning+Enthusiast;Python+%7C+Deep+Learning+%7C+Computer+Vision;Building+Practical+ML+Projects;Learn.+Build.+Improve.+Repeat."
        alt="Animated AI and ML introduction"/>
 
   <br/><br/>
 
-  <!-- Badges -->
+  <!-- Skill Badges -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
   <img src="https://img.shields.io/badge/Machine_Learning-8B5CF6?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning"/>
@@ -41,17 +41,15 @@ Hi, I'm **Aman Kumar**, a Computer Science and Engineering student focused on Ar
 ## ⚡ Tech Stack
 
 <div align="center">
+
   <img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode,tensorflow,opencv&theme=dark"
        alt="Python, C++, Git, GitHub, VS Code, TensorFlow and OpenCV"/>
-</div>
 
-<br/>
+  <br/><br/>
 
-<div align="center">
+  **Libraries & Concepts**
 
-**Libraries & Concepts**
-
-`NumPy` · `Pandas` · `Matplotlib` · `Seaborn` · `Scikit-learn` · `CNN` · `Image Processing` · `Model Evaluation` · `Streamlit`
+  `NumPy` · `Pandas` · `Matplotlib` · `Seaborn` · `Scikit-learn` · `CNN` · `Image Processing` · `Model Evaluation` · `Streamlit`
 
 </div>
 
@@ -94,7 +92,7 @@ A B.Tech project focused on lightweight CNN-based crop disease detection for off
        alt="GitHub statistics"/>
 
   <img width="49%"
-       src="https://streak-stats.demolab.com?user=aman295-cyber&theme=dark&hide_border=true&background=0B0F19&ring=8B5CF6&fire=00E5FF&currStreakLabel=00E5FF&currStreakNum=FFFFFF&sideLabels=C9D1D9&sideNums=FFFFFF&dates=8B949E&stroke=30363D"
+       src="https://streak-stats.demolab.com?user=aman295-cyber&theme=dark&hide_border=true&background=0B0F19&ring=8B5CF6&fire=00E5FF&currStreakLabel=00E5FF&currStreakNum=FFFFFF&sideLabels=C9D1D9&sideNums=FFFFFF&dates=8B9498&stroke=30363D"
        alt="GitHub contribution streak"/>
 
   <br/><br/>
@@ -110,9 +108,11 @@ A B.Tech project focused on lightweight CNN-based crop disease detection for off
 ## 🐍 Contribution Snake
 
 <div align="center">
+
   <img src="https://raw.githubusercontent.com/aman295-cyber/aman295-cyber/output/github-snake-dark.svg"
        width="100%"
        alt="GitHub contribution snake animation"/>
+
 </div>
 
 ---
