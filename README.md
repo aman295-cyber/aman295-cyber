@@ -1,17 +1,17 @@
-
 <div align="center">
 
-  <img src="./images/aman-coding-banner.gif"
+  <!-- 1. Animated Tech Banner (Live SVG Wave & Tech Gradient) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0B0F19,30:1E1135,70:0A2E2B,100:0B0F19&height=220&section=header&text=Aman%20Kumar&fontSize=52&fontColor=00E5FF&fontAlignY=36&desc=AI%20%26%20Machine%20Learning%20Developer&descFontSize=22&descAlignY=62&descColor=A78BFA"
        width="100%"
-       alt="Aman Kumar Animated Coding Banner"/>
+       alt="Aman Kumar Header"/>
 
-  <br/><br/>
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=00E5FF&center=true&vCenter=true&width=720&lines=AI+%26+Machine+Learning+Enthusiast;Python+%7C+Deep+Learning+%7C+Computer+Vision;Building+Practical+ML+Projects;Learn.+Build.+Improve.+Repeat."
+  <!-- 2. Dynamic Typing Terminal Subtitle -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=900&color=00E5FF&center=true&vCenter=true&width=720&lines=AI+%26+Machine+Learning+Enthusiast;Python+%7C+Deep+Learning+%7C+Computer+Vision;Building+Practical+ML+Projects;Learn.+Build.+Improve.+Repeat."
        alt="Animated AI and ML introduction"/>
 
   <br/><br/>
 
+  <!-- 3. Tech Badges -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
   <img src="https://img.shields.io/badge/Machine_Learning-8B5CF6?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning"/>
@@ -42,9 +42,15 @@ Hi, I'm **Aman Kumar**, a Computer Science and Engineering student focused on Ar
        alt="Python, C++, Git, GitHub, VS Code, TensorFlow and OpenCV"/>
 </div>
 
+<br/>
+
+<div align="center">
+
 **Libraries & Concepts**
 
 `NumPy` · `Pandas` · `Matplotlib` · `Seaborn` · `Scikit-learn` · `CNN` · `Image Processing` · `Model Evaluation` · `Streamlit`
+
+</div>
 
 ---
 
@@ -90,7 +96,7 @@ A B.Tech project focused on lightweight CNN-based crop disease detection for off
 
   <br/><br/>
 
-  <img width="45%"
+  <img width="48%"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman295-cyber&layout=compact&hide_border=true&bg_color=0B0F19&title_color=00E5FF&text_color=E6EDF3"
        alt="Most used programming languages"/>
 
