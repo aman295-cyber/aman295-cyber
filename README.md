@@ -1,3 +1,10 @@
+
+<div align="center">
+  <img src="./images/aman-coding-banner.gif"
+       width="100%"
+       alt="Aman Kumar Animated Coding Banner"/>
+</div>
+
 <div align="center">
 
   <!-- Main Banner --
