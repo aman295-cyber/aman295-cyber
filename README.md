@@ -1,6 +1,6 @@
 <div align="center">
 
-  <!-- Main Banner -->
+  <!-- Main Banner --
   <img src="aman-coding-banner.gif" width="100%" alt="Aman Kumar" />
 
   <br/><br/>
