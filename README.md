@@ -2,9 +2,9 @@
 2| <div align="center">
 3| 
 4|   <!-- Animated Main Banner -->
-5|   <img src="./aman-coding-banner.gif"
-6|        width="100%"
-7|        alt="Aman Kumar Animated Coding Banner"/>
+5|   <img src="https://raw.githubusercontent.com/aman295-cyber/aman295-cyber/main/aman-coding-banner.gif"
+     width="100%"
+     alt="Aman Kumar Animated Coding Banner" />
 8| 
 9|   <br/><br/>
 10| 
