@@ -9,13 +9,15 @@
   <br/><br/>
 
   <!-- Animated Typing Subtitle -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=900&color=00E5FF&center=true&vCenter=true&width=720&lines=AI+%26+Machine+Learning+Enthusiast;Python+%7C+Deep+Learning+%7C+Computer+Vision;Building+Practical+ML+Projects;Learn.+Build.+Improve.+Repeat."
-       alt="Animated AI and ML introduction"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=900&color=00E5FF&center=true&vCenter=true&width=720&lines=AI+%26+Machine+Learning+Enthusiast;Python+%7C+Deep+Learning+%7C+Computer+Vision;Learning+SQL+%26+PostgreSQL;Building+Practical+ML+Projects;Learn.+Build.+Improve.+Repeat."
+       alt="Animated AI, ML and SQL introduction"/>
 
   <br/><br/>
 
   <!-- Skill Badges -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
   <img src="https://img.shields.io/badge/Machine_Learning-8B5CF6?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning"/>
 
@@ -29,6 +31,7 @@ Hi, I'm **Aman Kumar**, a Computer Science and Engineering student focused on Ar
 
 - 🧠 Learning and building with Machine Learning and Deep Learning
 - 🐍 Working with Python, NumPy and Pandas
+- 🗄️ Learning SQL and PostgreSQL for data querying and database management
 - 👁️ Exploring Computer Vision and image processing with OpenCV
 - 🧪 Practising model training, evaluation and practical ML workflows
 - 🌱 Improving my programming fundamentals and problem-solving skills
@@ -42,14 +45,14 @@ Hi, I'm **Aman Kumar**, a Computer Science and Engineering student focused on Ar
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode,tensorflow,opencv&theme=dark"
-       alt="Python, C++, Git, GitHub, VS Code, TensorFlow and OpenCV"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode,tensorflow,opencv,postgres&theme=dark"
+       alt="Python, C++, Git, GitHub, VS Code, TensorFlow, OpenCV and PostgreSQL"/>
 
   <br/><br/>
 
-  **Libraries & Concepts**
+  **Languages, Databases & Libraries**
 
-  `NumPy` · `Pandas` · `Matplotlib` · `Seaborn` · `Scikit-learn` · `CNN` · `Image Processing` · `Model Evaluation` · `Streamlit`
+  `Python` · `SQL` · `PostgreSQL` · `NumPy` · `Pandas` · `Matplotlib` · `Seaborn` · `Scikit-learn` · `CNN` · `Image Processing` · `Model Evaluation` · `Streamlit`
 
 </div>
 
